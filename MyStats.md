@@ -22,4 +22,5 @@ I highly recommend trying out these exciting sports. Each offers a unique experi
 ## Scientific insights in their own words
 
 > "Hardwork never goes unrewarded" - Dr. A.P.J.Abdul Kalam
+
 "Imagination is more important than knowledge." - Albert Einstein
