@@ -9,3 +9,7 @@
 1. **Scuba Diving** Colourful corals, wrecks from the pages of history and the thrill of being in the abandon of the infinite sea.
 2. **Parasailing**  enjoy the breathtaking view of the blue Arabian Sea while flying high up in the sky, defying the limits as it were.
 3. **Banana Boat Rides** runs at an astonishing speed and sprints off in the sea.
+
+- **Different foods at my favorite vacation spot**
+   - **Sea foods** like Fish and Prawns.
+    - **Desserts** like cakes and kunafa.
