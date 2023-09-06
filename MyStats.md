@@ -28,6 +28,8 @@ I highly recommend trying out these exciting sports. Each offers a unique experi
 ## Code Snippet and Stack Overflow Question
 
 > [*Stack overflow Question](https://stackoverflow.com/questions/9229645/remove-duplicate-values-from-js-array)
+>
+> Remove Duplicates from an Array
 
 ```
 const array = [1, 1, 1, 3, 3, 2, 2];
