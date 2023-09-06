@@ -11,5 +11,6 @@
 3. **Banana Boat Rides** runs at an astonishing speed and sprints off in the sea.
 
 - **Different foods at my favorite vacation spot**
+
    - **Sea foods** like Fish and Prawns.
-    - **Desserts** like cakes and kunafa.
+    - **Desserts** like cakes and kunafa.   
